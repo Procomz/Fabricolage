@@ -1,3 +1,3 @@
-Concept d'un microcontrôleur 
-Présentation globale Arduino
-Présentation de l'ESP32
+- Concept d'un microcontrôleur
+- Présentation globale Arduino
+- Présentation de l'ESP32
