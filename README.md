@@ -16,3 +16,5 @@ Le kit contient :
 - un bargraph
 - un potentiomètre
 - deux buzzers
+
+Attention ! Il faut débrancher la caméra lorsque l'on ne s'en sert pas ! (sinon, conflit avec les signaux analogiques)
